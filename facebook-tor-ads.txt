@@ -1,0 +1,2 @@
+! Block ads served via Tor.
+facebookcorewwwi.onion##.ego_section
