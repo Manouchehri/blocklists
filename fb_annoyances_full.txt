@@ -6,56 +6,56 @@
 ! Homepage: http://facebook.adblockplus.me/
 ! Right sidebar
 ! Various suggestions/recommendations
-facebook.com##.home_right_column .ego_column.egoOrganicColumn
-facebook.com###globalContainer .ego_column._8_9.egoOrganicColumn
-facebook.com###rightCol .ego_column.egoOrganicColumn
+facebookcorewwwi.onion##.home_right_column .ego_column.egoOrganicColumn
+facebookcorewwwi.onion###globalContainer .ego_column._8_9.egoOrganicColumn
+facebookcorewwwi.onion###rightCol .ego_column.egoOrganicColumn
 ! "Trending" box
-facebook.com###pagelet_trending_tags_and_topics
+facebookcorewwwi.onion###pagelet_trending_tags_and_topics
 ! "Featured Music Services" (Music feed)
-facebook.com###music_services
+facebookcorewwwi.onion###music_services
 ! "Games Your Friends Are Playing" (Games feed)
-facebook.com##.rightColumnWrapper > ._5ksw
-facebook.com##.rightColumnWrapper > ._5ms_
+facebookcorewwwi.onion##.rightColumnWrapper > ._5ksw
+facebookcorewwwi.onion##.rightColumnWrapper > ._5ms_
 ! "Game requests/invitations" 
-facebook.com##.rightColumnWrapper .fbRemindersRemove + #custom_reminders_link[data-gt*="\"appid\":\""]
+facebookcorewwwi.onion##.rightColumnWrapper .fbRemindersRemove + #custom_reminders_link[data-gt*="\"appid\":\""]
 ! "Recommended games"
-facebook.com###pagelet_games_rhc
+facebookcorewwwi.onion###pagelet_games_rhc
 ! In news feed
 ! "Upcoming Events" and "Most Shared On Page X"
-facebook.com##.fbMainStreamAttachment ._4hh
+facebookcorewwwi.onion##.fbMainStreamAttachment ._4hh
 ! "Recently Released Albums"
-facebook.com##.fbMainStreamAttachment ._4hl
+facebookcorewwwi.onion##.fbMainStreamAttachment ._4hl
 ! "Similar To Page X" (after liking a post in the news feed)
-facebook.com##.commentable_item + .mvs
-facebook.com##.commentable_item + div > .mvs
-facebook.com##div[id^="substream_"] > div > div > .mvm
-facebook.com##DIV[id^="substream_"] > DIV > DIV > DIV > .mbm > ._4_ck
-facebook.com##DIV[id^="substream_"] > DIV > DIV > DIV[data-ownerid^="u_"] > .mvm
-facebook.com##DIV[id^="substream_"] > DIV > DIV > DIV[data-ownerid^="u_"] > DIV > .mbm > ._4_ck
-facebook.com##DIV[id^="feed_stream_"] > DIV[id^="js_"] > DIV > DIV > DIV[data-ownerid^="u_"] > .mvm
-facebook.com##DIV[id^="substream_"] ._2bex > .mbm > ._4_ck
-facebook.com###pagelet_group_ .mbm > ._4_ck
+facebookcorewwwi.onion##.commentable_item + .mvs
+facebookcorewwwi.onion##.commentable_item + div > .mvs
+facebookcorewwwi.onion##div[id^="substream_"] > div > div > .mvm
+facebookcorewwwi.onion##DIV[id^="substream_"] > DIV > DIV > DIV > .mbm > ._4_ck
+facebookcorewwwi.onion##DIV[id^="substream_"] > DIV > DIV > DIV[data-ownerid^="u_"] > .mvm
+facebookcorewwwi.onion##DIV[id^="substream_"] > DIV > DIV > DIV[data-ownerid^="u_"] > DIV > .mbm > ._4_ck
+facebookcorewwwi.onion##DIV[id^="feed_stream_"] > DIV[id^="js_"] > DIV > DIV > DIV[data-ownerid^="u_"] > .mvm
+facebookcorewwwi.onion##DIV[id^="substream_"] ._2bex > .mbm > ._4_ck
+facebookcorewwwi.onion###pagelet_group_ .mbm > ._4_ck
 ! "Suggestions" below a post
-facebook.com##.userContentWrapper > ._5pax > DIV > .mvs
+facebookcorewwwi.onion##.userContentWrapper > ._5pax > DIV > .mvs
 ! "Page X is posting about Page Y", "Page X is similar to Pages you like" and "Trending about Page X"
-facebook.com##.storyContent > .storyUnconnectedPost
+facebookcorewwwi.onion##.storyContent > .storyUnconnectedPost
 ! "Games You May Like" (new Facebook news feed)
-facebook.com##.mbm._6nl + .uiList > ._6n2
-facebook.com##.mbm._6nl
-facebook.com##._5pcr > .mbm._43rz
-facebook.com##._5pcr > .mbm._43rz + ._43r-
-facebook.com##.mbm._43rz + .uiList > ._43s1
-facebook.com##.mbm._43rz + .uiList + .uiList
-facebook.com##.mbm > ._5pcr > .mbs + ._43r- > .uiList
-facebook.com##.mbm > ._5pcr > .mbs
+facebookcorewwwi.onion##.mbm._6nl + .uiList > ._6n2
+facebookcorewwwi.onion##.mbm._6nl
+facebookcorewwwi.onion##._5pcr > .mbm._43rz
+facebookcorewwwi.onion##._5pcr > .mbm._43rz + ._43r-
+facebookcorewwwi.onion##.mbm._43rz + .uiList > ._43s1
+facebookcorewwwi.onion##.mbm._43rz + .uiList + .uiList
+facebookcorewwwi.onion##.mbm > ._5pcr > .mbs + ._43r- > .uiList
+facebookcorewwwi.onion##.mbm > ._5pcr > .mbs
 ! "People you may know"
-facebook.com###stream_pagelet > #pagelet_composer + ._4-u2._2ph_._3-95
+facebookcorewwwi.onion###stream_pagelet > #pagelet_composer + ._4-u2._2ph_._3-95
 ! Other
 ! All recommendations in the right sidebar but when viewing an image in gallery view 
-facebook.com##.photoUfiContainer .ego_column.egoOrganicColumn
+facebookcorewwwi.onion##.photoUfiContainer .ego_column.egoOrganicColumn
 ! "Like Your Favorite Pages" (Pages feed)
-facebook.com##.megaphone_location_pages_feed
+facebookcorewwwi.onion##.megaphone_location_pages_feed
 ! Right sidebar on app/game pages
-apps.facebook.com###rightCol
+apps.facebookcorewwwi.onion###rightCol
 ! "People You May Know" on profile page
-facebook.com###pagelet_pymk_timeline
+facebookcorewwwi.onion###pagelet_pymk_timeline
