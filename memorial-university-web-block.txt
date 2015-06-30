@@ -1,0 +1,13 @@
+# Author: David Manouchehri
+# Title: Memorial University Web Blocklist
+# Homepage: https://github.com/Manouchehri/blocklists
+# License: See LICENSE-BSD4.txt
+
+http://online.mun.ca/d2l/common/js/D2L.LP.Web.Page.DisableRightClick.default.js
+http://online.mun.ca/d2l/common/js/D2L.LP.Web.Page.DisablePrint.default.js
+http://online.mun.ca/d2l/common/js/D2L.LE.Content.ContentViewer.default.js
+http://online.mun.ca/d2l/common/js/D2L.LE.Content.Web.Desktop.default.js
+http://online.mun.ca/d2l/common/js/D2L.LE.ToolIntegration.Content.default.js
+http://online.mun.ca/content/enforced/*/assets/js/insertFooter.js
+http://online.mun.ca/content/enforced/*/assets/js/jquery.js
+http://online.mun.ca/content/enforced/*/assets/js/altRows.js
