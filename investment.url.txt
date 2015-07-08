@@ -1,0 +1,6 @@
+# Author: David Manouchehri
+# Title: Investment Related
+# Homepage: https://github.com/Manouchehri/blocklists
+# License: See LICENSE-BSD4.txt
+
+*.questrade.com/under_construction/images/banner*.jpg
