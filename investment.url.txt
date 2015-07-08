@@ -4,3 +4,5 @@
 # License: See LICENSE-BSD4.txt
 
 *.questrade.com/under_construction/images/banner*.jpg
+www.questrade.com/images/default-source/logos/*.png
+www.virtualbrokers.com/images/*member.gif
