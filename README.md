@@ -4,6 +4,7 @@ https://block.davidmanouchehri.com/facebook-ads.tor.url.txt
 https://block.davidmanouchehri.com/fb_annoyances_full.tor.url.txt
 https://block.davidmanouchehri.com/memorial-university-web-block.url.txt
 https://block.davidmanouchehri.com/message_seen_remover_for_facebook.tor.url.txt
+https://block.davidmanouchehri.com/investment.url.txt
 ```
 
 This repository is used for distributing various blocklists that I've written. You can either use GitHub directly, or the content mirrored to CloudFlare (`https://block.davidmanouchehri.com/[filename]`).
